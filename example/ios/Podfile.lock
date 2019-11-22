@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - image_blurry (0.0.1):
+    - Flutter
+    - OpenCV
+  - OpenCV (4.1.0)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - image_blurry (from `.symlinks/plugins/image_blurry/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OpenCV
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  image_blurry:
+    :path: ".symlinks/plugins/image_blurry/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  image_blurry: 1fb74e276411a0098f8c78d1289a3a16d53285be
+  OpenCV: 52cd4d72ff29e2be83421477aec5447320b7fb19
+
+PODFILE CHECKSUM: 64b2109b760ac9073c864e2a8278e6464efaa219
+
+COCOAPODS: 1.8.4
